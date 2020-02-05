@@ -1,0 +1,11 @@
+.Loader {
+  position: fixed;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+  z-index: 10;
+  background-color: rgb(221, 235, 248);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
